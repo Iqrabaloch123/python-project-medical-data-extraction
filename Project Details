@@ -1,0 +1,9 @@
+Project Name:  Software Rxtract Pro 
+ This project handles two types of documents: prescription and patient details. The goal is to extract meaningful information such as name, address, direction, and refill number from a prescription document. Here's how we can structure the project:
+
+Step-by-Step Breakdown
+Convert PDF to Image
+Apply Image Processing Techniques
+Extract Text Using Pytesseract
+Use Regular Expressions to Extract Required Fields
+Output the Extracted Information in JSON Format
